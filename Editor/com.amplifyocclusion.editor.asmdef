@@ -1,0 +1,17 @@
+{
+    "name": "com.amplifyocclusion.editor",
+    "references": [
+        "GUID:69be9f004b9b1834b8379f76d8950b93"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
